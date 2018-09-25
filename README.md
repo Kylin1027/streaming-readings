@@ -88,6 +88,8 @@
 - [High-availability algorithms for distributed stream processing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.162.306&rep=rep1&type=pdf) (ICDE): 此篇主要聚焦在 streaming system 的高可用性，即故障恢复。文章提出了 3 种 recovery types: (a) precise, (b) gap, 和 (c) rollback，并通过 (1) passive standby, (2) upstream backup, (3) active standby 的方式进行 recover。可与 2007 年 ICDE 的文章对比阅读。
 
 
+- [Semantics and Evaluation Techniques for Window Aggregates in Data Streams](http://cs.brown.edu/courses/cs227/archives/2015/papers/sp-semanticsevaluation.pdf)  此文中提出的 WID 思想在 2015 年提出的 [Out-of-Order Data Processing](http://people.csail.mit.edu/matei/courses/2015/6.S897/readings/google-dataflow.pdf)  一文中有所提及与借鉴. 
+
 ## 2004 年
 
 
